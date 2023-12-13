@@ -1,0 +1,10 @@
+Manifest-Version: 1.2
+Main-Class: com.mycompany.javautil.JavaUtil
+
+
+To run:
+
+1. Extract the zip file
+2. Navigate to \JavaUtil\JavaUtil\src\main\java\com\mycompany\javautil from the command prompt
+3. Run command :java -jar JavaUtil-1.0-SNAPSHOT.jar
+4. Test the project.
